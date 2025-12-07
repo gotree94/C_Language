@@ -2,6 +2,8 @@
 
 이것이 C 언어다 (서현우의 C 프로그래밍 정복)
 
+<img width="305" height="398" alt="015" src="https://github.com/user-attachments/assets/ab271886-4545-4c21-b5af-ad848c51594a" />
+
 ## 목차
 
 ---
