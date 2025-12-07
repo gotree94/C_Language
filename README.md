@@ -2,11 +2,11 @@
 
 이것이 C 언어다 (서현우의 C 프로그래밍 정복)
 
+## 목차
 
-목차
-<details> <summary><strong>PART 1. C 언어 기본</strong></summary>
+### PART 1. C 언어 기본
 
-* 1장 프로그램 만들기
+<details> <summary><strong>1장 프로그램 만들기</strong></summary>
 	* 1.1 프로그램과 C 언어
 	* 1.2 컴파일러 사용법
 		* 1.2.1 소스 파일(source file) 작성
