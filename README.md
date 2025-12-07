@@ -7,12 +7,14 @@
 ### PART 1. C 언어 기본
 
 <details> <summary><strong>1장 프로그램 만들기</strong></summary>
+	
 	* 1.1 프로그램과 C 언어
 	* 1.2 컴파일러 사용법
 		* 1.2.1 소스 파일(source file) 작성
 		* 1.2.2 컴파일
 		* 1.2.3 실행
 		* 연습문제 / 정답 및 해설
+
 </details>
 
 * 2장 상수와 데이터 출력
