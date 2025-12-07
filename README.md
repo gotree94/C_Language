@@ -344,8 +344,9 @@
 	* 도전 실전 예제
 
 </details>
-<details> <summary><strong>부록</strong></summary>
-
+### 부록
+<details> 
+	
 	*  A. 아스키 코드표
 	*  B. 선택정렬 알고리즘
 	*  C. 날짜와 시간 함수, 난수 함수, 가변 인수 함수
