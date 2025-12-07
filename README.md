@@ -17,7 +17,8 @@
 
 </details>
 
-* 2장 상수와 데이터 출력
+<details> <summary><strong>2장 상수와 데이터 출력</strong></summary>
+	
 	* 2.1 C 프로그램의 기본 형태와 데이터 출력 방법
 		* 2.1.1 main 함수 구조
 		* 2.1.2 출력 함수(printf)의 사용법
@@ -32,8 +33,10 @@
 		* 2.2.5 정수형 상수가 컴파일된 후의 비트 형태
 		* 2.2.6 실수형 상수가 컴파일된 후의 비트 형태
 		* 연습문제 / 정답 및 해설
+</details>
 
-* 3장 변수와 데이터 입력
+<details> <summary><strong>3장 변수와 데이터 입력</strong></summary>
+	
 	* 3.1 변수
 		* 3.1.1 변수 선언 방법
 		* 3.1.2 쓰레기값과 초기화
@@ -49,8 +52,10 @@
 		* 3.2.2 scanf 함수의 응용
 		* 3.2.3 문자와 문자열의 입력
 		* 연습문제 / 정답 및 해설
+</details>
 
-* 4장 연산자
+<details> <summary><strong>4장 연산자</strong></summary>
+	
 	* 4.1 산술, 관계, 논리 연산자
 		* 4.1.1 연산자와 피연산자
 		* 4.1.2 산술 연산자와 대입 연산자
@@ -70,8 +75,10 @@
 		* 4.2.7 연산자 우선순위와 연산 방향
 		* 연습문제 / 정답 및 해설
 	* 도전 실전 예제
+</details>
 
-* 5장 선택문(if, switch~case)
+<details> <summary><strong>5장 선택문(if, switch~case)</strong></summary>
+	
 	* 5.1 if문
 		* 5.1.1 if문의 기본 형식
 		* 5.1.2 if ~ else문
@@ -84,8 +91,10 @@
 		* 5.2.4 switch ~ case문
 		* 연습문제 / 정답 및 해설
 	* 도전 실전 예제
+</details>
 
-* 6장 반복문
+<details> <summary><strong>6장 반복문</strong></summary>
+	
 	* 6.1 while, for, do~while
 		* 6.1.1 while문
 		* 6.1.2 for문
@@ -96,8 +105,10 @@
 		* 6.2.2 break와 continue 분기문
 		* 연습문제 / 정답 및 해설
 	* 도전 실전 예제
+</details>
 
-* 7장 함수
+<details> <summary><strong>7장 함수</strong></summary>
+	
 	* 7.1 함수의 작성과 사용
 		* 7.1.1 함수 정의
 		* 7.1.2 함수 호출과 반환
@@ -111,6 +122,7 @@
 		* 7.2.5 재귀호출이 반복문과 다른 점은 무엇인가?
 		* 연습문제 / 정답 및 해설
 	* 도전 실전 예제
+</details>
 
 * 8장 배열
 	* 8.1 배열의 선언과 사용
