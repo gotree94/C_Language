@@ -380,11 +380,10 @@
 </details>
 
 
-### Chapter 13 변수의 영역과 데이터 공유</strong></summary>
-
+### Chapter 13 변수의 영역과 데이터 공유
 
 <details>
-<summary><strong>13-1 변수 사용 영역
+<summary><strong>13-1 변수 사용 영역</strong></summary>
 - 지역 변수
 - 블록 안에서 사용하는 지역 변수
 - 전역 변수
@@ -598,9 +597,9 @@
 
 </details>
 
-<details>
-
 ### 부록
+
+<details>
 
 - 부록 A 아스키 코드표
 - 부록 B 선택 정렬 알고리즘
