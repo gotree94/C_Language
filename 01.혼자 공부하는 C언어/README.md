@@ -1,8 +1,9 @@
 # C Language
 
-이것이 C 언어다 (서현우의 C 프로그래밍 정복)
+혼자공부하는 C언어
 
-<img width="305" height="398" alt="015" src="https://github.com/user-attachments/assets/ab271886-4545-4c21-b5af-ad848c51594a" />
+<img width="411" height="555" alt="SelfStudy_C" src="https://github.com/user-attachments/assets/be64633f-a43f-4108-8f4c-9dfdf5e74ca0" />
+
 
 ## 목차
 
