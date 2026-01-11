@@ -410,11 +410,11 @@
 </details>
 
 
-### Chapter 14 다차원 배열과 포인터 배열</strong></summary>
+### Chapter 14 다차원 배열과 포인터 배열
 
 
 <details>
-<summary><strong>14-1 다차원 배열
+<summary><strong>14-1 다차원 배열</strong></summary>
 - 2차원 배열 선언과 요소 사용
 - 2차원 배열 초기화
 - 2차원 char 배열
