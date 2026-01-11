@@ -16,13 +16,13 @@
 ### Chapter 01 프로그램 만들기
 
 <details>
-<summary><strong>01-1 프로그램과 C 언어
+<summary><strong>01-1 프로그램과 C 언어</strong></summary>
 - C 언어의 탄생
 - C 언어의 장점
 </details>
   
 <details>
-<summary><strong>01-2 컴파일과 컴파일러 사용법
+<summary><strong>01-2 컴파일과 컴파일러 사용법</strong></summary>
 - 비주얼 스튜디오 설치하기
 - 프로젝트 생성과 소스 파일 작성
 - 소스 파일 컴파일하기
@@ -37,7 +37,7 @@
 ### Chapter 02 상수와 데이터 출력
 
 <details>
-<summary><strong>02-1 C 프로그램의 구조와 데이터 출력 방법
+<summary><strong>02-1 C 프로그램의 구조와 데이터 출력 방법</strong></summary>
 - 프로그램과 main 함수 구조
 - 문자열 출력 : 출력 함수(printf)의 사용법
 - 제어 문자 출력
@@ -49,7 +49,7 @@
 
 
 <details>
-<summary><strong>02-2 상수와 데이터 표현 방법
+<summary><strong>02-2 상수와 데이터 표현 방법</strong></summary>
 - 정수 상수 표현법
 - 실수 상수 표현법
 - 문자와 문자열 상수 표현법
@@ -66,7 +66,7 @@
 ### Chapter 03 변수와 데이터 입력
 
 <details>
-<summary><strong>03-1 변수
+<summary><strong>03-1 변수</strong></summary>
 - 변수 선언 방법
 - 정수 자료형
 - unsigned 정수 자료형
@@ -81,7 +81,7 @@
 
 
 <details>
-<summary><strong>03-2 데이터 입력
+<summary><strong>03-2 데이터 입력</strong></summary>
 - scanf 함수의 사용법
 - 문자와 문자열의 입력
 [좀 더 알아보기] 비정상 종료되는 경우
@@ -91,10 +91,10 @@
 </details>
 
 
-### Chapter 04 연산자
+### Chapter 04 연산자</strong></summary>
 
 <details>
-<summary><strong>04-1 산술 연산자, 관계 연산자, 논리 연산자
+<summary><strong>04-1 산술 연산자, 관계 연산자, 논리 연산자</strong></summary>
 - 산술 연산자와 대입 연산자
 - 증감 연산자
 - 관계 연산자
@@ -109,7 +109,7 @@
 
 
 <details>
-<summary><strong>04-2 그 외 유용한 연산자
+<summary><strong>04-2 그 외 유용한 연산자</strong></summary>
 - 형 변환 연산자
 - sizeof 연산자
 - 복합대입 연산자
@@ -127,7 +127,7 @@
 ### Chapter 05 선택문
 
 <details>
-<summary><strong>05-1 if문
+<summary><strong>05-1 if문</strong></summary>
 - if문의 기본 형식 151
 - if ~ else문 153
 - if ~ else if ~ else문 156
@@ -138,7 +138,7 @@
 
 
 <details>
-<summary><strong>05-2 if문 활용과 switch ~ case문
+<summary><strong>05-2 if문 활용과 switch ~ case문</strong></summary>
 - if문 중첩
 - else 결합 문제
 - switch ~ case문
@@ -153,7 +153,7 @@
 ### Chapter 06 반복문
 
 <details>
-<summary><strong>06-1 while문, for문, do ~ while문
+<summary><strong>06-1 while문, for문, do ~ while문</strong></summary>
 - while문
 - for문
 - do ~ while문
@@ -164,7 +164,7 @@
 
 
 <details>
-<summary><strong>06-2 반복문 활용
+<summary><strong>06-2 반복문 활용</strong></summary>
 - 중첩 반복문
 - break와 continue 분기문
 [3가지 키워드로 끝내는 핵심 포인트]
@@ -177,7 +177,7 @@
 ### Chapter 07 함수
 
 <details>
-<summary><strong>07-1 함수의 작성과 사용
+<summary><strong>07-1 함수의 작성과 사용</strong></summary>
 - 함수 정의
 - 함수 호출과 반환
 - 함수 선언
@@ -188,7 +188,7 @@
 
 
 <details>
-<summary><strong>07-2 여러 가지 함수 유형
+<summary><strong>07-2 여러 가지 함수 유형</strong></summary>
 - 매개변수가 없는 함수
 - 반환값이 없는 함수
 - 매개변수와 반환값이 모두 없는 함수
@@ -204,7 +204,7 @@
 ### Chapter 08 배열
 
 <details>
-<summary><strong>08-1 배열의 선언과 사용
+<summary><strong>08-1 배열의 선언과 사용</strong></summary>
 - 배열의 선언
 - 배열 초기화
 - 배열과 반복문
@@ -216,7 +216,7 @@
 
 
 <details>
-<summary><strong>08-2 문자를 저장하는 배열
+<summary><strong>08-2 문자를 저장하는 배열</strong></summary>
 - char형 배열의 선언과 초기화
 - 문자열 대입
 - 문자열 전용 입출력 함수 : gets, puts
@@ -231,7 +231,7 @@
 ### Chapter 09 포인터
 
 <details>
-<summary><strong>09-1 포인터의 기본 개념
+<summary><strong>09-1 포인터의 기본 개념</strong></summary>
 - 메모리의 주소
 - 주소 연산자
 - 포인터와 간접 참조 연산자
@@ -244,7 +244,7 @@
 
 
 <details>
-<summary><strong>09-2 포인터 완전 정복을 위한 포인터 이해하기
+<summary><strong>09-2 포인터 완전 정복을 위한 포인터 이해하기</strong></summary>
 - 주소와 포인터의 차이
 - 주소와 포인터의 크기
 - 포인터의 대입 규칙
@@ -259,7 +259,7 @@
 ### Chapter 10 배열과 포인터
 
 <details>
-<summary><strong>10-1 배열과 포인터의 관계
+<summary><strong>10-1 배열과 포인터의 관계</strong></summary>
 - 배열명으로 배열 요소 사용하기
 - 배열명 역할을 하는 포인터
 - 배열명과 포인터의 차이
@@ -271,7 +271,7 @@
 
 
 <details>
-<summary><strong>10-2 배열을 처리하는 함수
+<summary><strong>10-2 배열을 처리하는 함수</strong></summary>
 - 배열의 값을 출력하는 함수
 - 배열 요소의 개수가 다른 배열도 출력하는 함수
 - 배열에 값을 입력하는 함수
@@ -286,7 +286,7 @@
 ### Chapter 11 문자
 
 <details>
-<summary><strong>11-1 아스키 코드 값과 문자 입출력 함수
+<summary><strong>11-1 아스키 코드 값과 문자 입출력 함수</strong></summary>
 - 아스키 코드
 - scanf 함수를 사용한 문자 입력
 - getchar, putchar 함수
@@ -297,7 +297,7 @@
 
 
 <details>
-<summary><strong>11-2 버퍼를 사용하는 입력 함수
+<summary><strong>11-2 버퍼를 사용하는 입력 함수</strong></summary>
 - scanf 함수가 문자를 입력하는 과정
 - scanf 함수 반환값 활용
 - getchar 함수를 사용한 문자열 입력
@@ -312,7 +312,7 @@
 ### Chapter 12 문자열
 
 <details>
-<summary><strong>12-1 문자열과 포인터
+<summary><strong>12-1 문자열과 포인터</strong></summary>
 - 문자열 상수 구현 방법
 - char 포인터로 문자열 사용
 - scanf 함수를 사용한 문자열 입력
@@ -328,7 +328,7 @@
 
 
 <details>
-<summary><strong>12-2 문자열 연산 함수
+<summary><strong>12-2 문자열 연산 함수</strong></summary>
 - 문자열을 대입하는 strcpy 함수
 - 원하는 개수의 문자만을 복사하는 strncpy 함수
 - 문자열을 붙이는 strcat, strncat 함수
@@ -342,7 +342,7 @@
 
 [도전 실전 예제]
 
-### Chapter 13 변수의 영역과 데이터 공유
+### Chapter 13 변수의 영역과 데이터 공유</strong></summary>
 
 <details>
 <summary><strong>13-1 변수 사용 영역
@@ -358,7 +358,7 @@
 
 
 <details>
-<summary><strong>13-2 함수의 데이터 공유 방법
+<summary><strong>13-2 함수의 데이터 공유 방법</strong></summary>
 - 값을 복사해서 전달하는 방법
 - 주소를 전달하는 방법
 - 주소를 반환하는 함수
@@ -369,7 +369,7 @@
 
 [도전 실전 예제]
 
-### Chapter 14 다차원 배열과 포인터 배열
+### Chapter 14 다차원 배열과 포인터 배열</strong></summary>
 
 <details>
 <summary><strong>14-1 다차원 배열
@@ -385,7 +385,7 @@
 
 
 <details>
-<summary><strong>14-2 포인터 배열
+<summary><strong>14-2 포인터 배열</strong></summary>
 - 포인터 배열 선언과 사용
 - 2차원 배열처럼 활용하는 포인터 배열
 [3가지 키워드로 끝내는 핵심 포인트]
@@ -398,7 +398,7 @@
 ### Chapter 15 응용 포인터
 
 <details>
-<summary><strong>15-1 이중 포인터와 배열 포인터
+<summary><strong>15-1 이중 포인터와 배열 포인터</strong></summary>
 - 이중 포인터 개념
 - 이중 포인터 활용 1 : 포인터 값을 바꾸는 함수의 매개변수
 - 이중 포인터 활용 2 : 포인터 배열을 매개변수로 받는 함수
@@ -412,7 +412,7 @@
 
 
 <details>
-<summary><strong>15-2 함수 포인터와 void 포인터
+<summary><strong>15-2 함수 포인터와 void 포인터</strong></summary>
 - 함수 포인터의 개념
 - 함수 포인터의 활용
 - void 포인터
@@ -426,7 +426,7 @@
 ### Chapter 16 메모리 동적 할당
 
 <details>
-<summary><strong>16-1 동적 할당 함수
+<summary><strong>16-1 동적 할당 함수</strong></summary>
 - malloc, free 함수
 - 동적 할당 영역을 배열처럼 쓰기
 - 기타 동적 할당 함수
@@ -438,7 +438,7 @@
 
 
 <details>
-<summary><strong>16-2 동적 할당 저장 공간의 활용
+<summary><strong>16-2 동적 할당 저장 공간의 활용</strong></summary>
 - 동적 할당을 사용한 문자열 처리
 - 동적 할당 영역에 저장한 문자열을 함수로 처리하는 예
 - main 함수의 명령행 인수 사용
@@ -452,7 +452,7 @@
 ### Chapter 17 사용자 정의 자료형
 
 <details>
-<summary><strong>17-1 구조체
+<summary><strong>17-1 구조체</strong></summary>
 - 구조체 선언과 멤버 사용
 - 다양한 구조체 멤버
 - 구조체 변수의 초기화와 대입 연산
@@ -464,7 +464,7 @@
 
 
 <details>
-<summary><strong>17-2 구조체 활용, 공용체, 열거형
+<summary><strong>17-2 구조체 활용, 공용체, 열거형</strong></summary>
 - 구조체 포인터와 → 연산자
 - 구조체 배열
 - 구조체 배열을 처리하는 함수
@@ -482,7 +482,7 @@
 ### Chapter 18 파일 입출력
 
 <details>
-<summary><strong>18-1 파일 개방과 입출력
+<summary><strong>18-1 파일 개방과 입출력</strong></summary>
 - 파일 개방과 폐쇄
 - 스트림 파일과 파일 포인터
 - 문자 입력 함수: fgetc
@@ -497,7 +497,7 @@
 
 
 <details>
-<summary><strong>18-2 다양한 파일 입출력 함수
+<summary><strong>18-2 다양한 파일 입출력 함수</strong></summary>
 - 한 줄씩 입출력하는 함수: fgets, fputs
 - 다양한 형태로 입출력하는 함수: fscanf, fprintf
 - 스트림 파일의 버퍼 공유 문제와 fflush 함수
@@ -512,7 +512,7 @@
 ### Chapter 19 전처리와 분할 컴파일
 
 <details>
-<summary><strong>19-1 전처리 지시자
+<summary><strong>19-1 전처리 지시자</strong></summary>
 - 파일을 포함하는 #include
 - 매크로명을 만드는 #define
 - #define을 사용한 매크로 함수
@@ -527,7 +527,7 @@
 
 
 <details>
-<summary><strong>19-2 분할 컴파일
+<summary><strong>19-2 분할 컴파일</strong></summary>
 - 분할 컴파일 방법
 - 분할 컴파일에서 extern과 static의 용도
 - 헤더 파일의 필요성과 중복 문제 해결 방법
@@ -539,7 +539,7 @@
 [도전 실전 예제]
 
 <details>
-<summary><strong>부록
+<summary><strong>부록</strong></summary>
 
 부록 A 아스키 코드표
 부록 B 선택 정렬 알고리즘
